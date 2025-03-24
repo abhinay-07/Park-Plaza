@@ -1,7 +1,7 @@
 # Park-Plaza
 "Revolutionizing urban mobility with our Smart Parking Management System. Contribute to our open-source project on GitHub!"
 
-Detailed Description:
+Detailed Description: 
 
 Our Smart Parking Management System is a revolutionary solution aimed at simplifying urban mobility challenges associated with parking. Leveraging cutting-edge technology such as IoT (Internet of Things) and machine learning, our system offers a seamless parking experience for users.
 
